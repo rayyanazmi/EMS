@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  color: #fff;
+}
+html, body{
+  height: 100%;
+  width: 100%;
+  background: rgb(0, 0, 0);
+}
+#tasklists::-webkit-scrollbar{
+  display: none;
+}
