@@ -135,7 +135,6 @@
 //         ]
 //     }
 // ];
-localStorage.clear()
 
 const employees = [
     {
