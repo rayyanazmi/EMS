@@ -1,7 +1,6 @@
 import React from 'react'
 
 const AcceptTask = ({data}) => {
-    console.log(data.taskTitle);
     return (
     <div className='flex-shrink-0 h-full w-[300px] bg-slate-500 p-5 rounded-xl'>
                 <div className='flex justify-between items-center'>

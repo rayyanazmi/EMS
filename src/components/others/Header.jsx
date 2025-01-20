@@ -3,7 +3,7 @@ import { setLocalStorage } from '../../utils/localStorage'
 
 const Header = (props) => {
 
-    const [username, setuserName] = useState('')
+    // const [username, setuserName] = useState('')
 
     // if(!data){
     //     setuserName('Admin')
