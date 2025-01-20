@@ -81,12 +81,13 @@ employee-management-system/
 ## Screenshots
 
 ### Login Page
-
+![Screenshot Login 2025-01-20 164228](https://github.com/user-attachments/assets/ef401fe4-c26f-4dec-9367-3987c593b4c6)
 
 ### Admin Dashboard
-
+![Screenshot admin_dash 2025-01-20 164203](https://github.com/user-attachments/assets/ee1316b1-d211-4520-8ff4-2987d0165feb)
 
 ### Employee Dashboard
+![Screenshot Em1 2025-01-20 164250](https://github.com/user-attachments/assets/300c6c8b-16d3-4536-b9ee-4336c004da9a)
 
 ---
 
